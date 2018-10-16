@@ -43,6 +43,6 @@ Takes about less than 20 seconds for the trainiing images and much less than tha
 
 _Just enter the right path_
 
-The iamges will be saved in '_.jpg_' format
+The images will be saved in '_.jpg_' format
 
 And the labels will be saved in '_.npy_' format
